@@ -18,7 +18,7 @@ twitter:
 fancybox: true
 
 google_analytics: G-R32CHMGLNE
-rss: emublog
+rss: https://feeds.feedburner.com/emublog
 
 comment_provider: disqus
 # Disqus comment
