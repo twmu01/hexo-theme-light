@@ -20,9 +20,9 @@ fancybox: true
 google_analytics: G-R32CHMGLNE
 rss: emublog
 
-comment_provider: 
+comment_provider: disqus
 # Disqus comment
-disqus_shortname:
+disqus_shortname: mu-blog-1
 # Facebook comment
 facebook:
   appid: # <appId>
