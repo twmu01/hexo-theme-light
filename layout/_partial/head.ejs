@@ -5,6 +5,7 @@
   if (page.current > 1) title.push(__('page', page.current));
   if (page.title) title.push(page.title);
   if (page.category) title.push(page.category);
+  <link rel="alternate" href="https://feeds.feedburner.com/emublog" title="<%= config.title %>" type="application/rss+xml">
   if (page.tag) title.push(page.tag);
   if (page.archive){
     if (page.year) title.push(__('archive_b', page.year + (page.month ? '/' + page.month : '')));
